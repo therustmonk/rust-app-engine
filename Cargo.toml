@@ -1,0 +1,10 @@
+[package]
+name = "rust-app-engine"
+version = "0.1.0"
+description = "App Engine Rust boilerplate"
+authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+
+[dependencies]
+log = "0.3.6"
+env_logger = "0.3.3"
+rustful = "0.8"

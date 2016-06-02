@@ -1,0 +1,5 @@
+runtime: custom
+vm: true
+# Warning! skip_files doesn't work for custom runtime
+skip_files:
+    - ^target.*$
